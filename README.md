@@ -8,9 +8,10 @@ enum class Genders {
     Male, Female
 }
 
-fun main():
+fun main() {
     val name = "RTAkland"
     val gender = Genders.Male
     val org = "DangoTown"
     println("My Name is $name, and I am a $gender, I am in $org")
+}
 ```
