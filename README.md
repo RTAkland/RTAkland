@@ -13,7 +13,7 @@ fun main() {
     val gender = Genders.Male
     val org = "DangoTown"
     val languages = listOf("Kotlin", "Python")
-    println("My Name is $name, and my gender is $gender, I am in ${org}.")
+    println("My Name is $name, and my gender is $gender, I am in ${org} (https://dgtmc.top).")
     languages.forEach {
         println("I use ${it}.")
     }
