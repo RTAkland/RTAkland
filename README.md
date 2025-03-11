@@ -1,5 +1,3 @@
-> 最爱 Kotlin 😘
-
 [个人博客](https://blog.rtast.cn)
 
 <div>
