@@ -1,7 +1,7 @@
-[个人博客](https://blog.rtast.cn)
+[Blog](https://blog.rtast.cn)
 
 <div>
-  <p>多少人来看过了呀👇...</p>
+  <p>How many people viewed👇...</p>
   <img src="https://counter.rtast.cn/RTAkland?theme=lewd">
 </div>
   
